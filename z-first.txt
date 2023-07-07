@@ -1,0 +1,324 @@
+
+git controls.txt
+GIT-CONTROLS:
+
+Job: JUNIOR SOFTWARE ENGINEER
+head of all devs/unit head: Kazeem Aramide
+line manager: oluwa Alli
+md SS tech services: ademola igbalajobi
+
+vscode://vscode.github-authentication/did-authenticate?windowid=12&code=39c93ed36d65c2fc3c24&state=39c36e41-c7ea-4674-a91e-8c1eb3a8f5fa
+
+Two-factor Authentication Recovery codes for https://gitlab.com/-/profile/two_factor_auth:
+93c1dfaadd440c88
+97f5aaa65e037fa1
+9faa4bcb880f3a2e
+f725a7fe8e4d5de0
+75d0d0f5e96fecb7
+73f6df209a1ee24a
+bc6f5b5fea20b6c5
+ca268df5c692d8e9
+07f4316d4ec65ccf
+462d347bb62fc94d
+ACCESS TOKEN GITLAB: glpat-bsTN9uwEhcL8WAeHGGJu
+
+
+
+To add the entry manually, provide the following details to the application on your phone.
+Account: gitlab.com:ugochukwu@systemspecs.com.ng
+Key: P4GE NHGH 3SDJ 4RQ6 3DTL V56X JJLU EDSN
+
+You can use this login credential
+SystemSpecs (udemy.com)
+Email: humancapital@systemspecs.com.ng
+Password: HumanManager@2020
+
+git controls:
+ping 192.168.19.30
+
+User Criteria:
+Acceptance Criteria
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+git clone http://192.168.19.16:8510//specs-apps/rd-projects/fund-a-cause-business/facb-webclient.git
+
+git clone http://192.168.19.16:8510//specs-apps/rd-projects/fund-a-cause/fac-webclient.git
+
+git pull http://192.168.19.16:8510/specs-apps/rd-projects/fund-a-cause/fac-webclient.git staging
+
+git pull http://192.168.19.16:8510/specs-apps/rd-projects/fund-a-cause/fac-webclient.git task/Implement-fixes-on-corporate-autocomplete
+
+git push origin --HEAD
+
+git push http://192.168.19.16:8510/specs-apps/rd-projects/fund-a-cause/fac-webclient.git task/Implement-verified-campaign-banner-on-campaign-card
+
+git push http://192.168.19.16:8510/fund-a-cause/fac-webclient.git task/Implement-local-and-foreign-donation-pay
+///////////////////////////////////////////////////////////////////////////////////////////
+
+git remote -v
+
+git remote add destination https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-webclient.git
+
+git pull destination staging
+
+git push destination task/Update-fixes-on-FAC-campaigner-name
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
+task/Implement-a-validated-campaign-link-on-the-campaign-setup-page-#7
+git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-webclient staging
+
+git push https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-webclient  task/Implement-export-and-download-of-donor-list-#103
+
+git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient tasks/fetch-data-for-individual-users-#4 staging
+
+git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient staging
+
+git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient.git task/implement-export-download-donor-list-#103
+
+git pull origin Task/resolve-fac-admin-bugs-#24
+
+git push https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient Task/Design-custom-field-and-phone-number-on-donor-information-#136
+
+Task/resolve-fac-admin-bugs-#24
+
+git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/facb-webclient staging
+
+https://gitlab.com/specs-apps/rd-projects/fundacause-business/facb-webclient
+
+git push https://gitlab.com/specs-apps/rd-projects/fund-a-cause/facb-webclient bug/Update-campaign-page-errors-#10
+
+git push destination HEAD
+git remote -v
+git pull destination staging
+
+git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient.git Task/Implement-Show-Audit-Log-Page-#20
+
+
+***************************************************************************************
+
+Task/resolve-fac-admin-bugs-#24
+
+task/Implement-flutterwave-feedback-payment-#15
+
+
+git fetch  
+git status  
+git branch     
+git pull ec/sprint/7  
+git checkout ec/sprint/7
+git checkout -b task/Implement-new-api-calls-on-the-categories-page-#5
+git checkout -b bug/Update-campaign-categories-card-display-#13
+ 
+task/resolve-fac-admin-bugs-#24
+
+git checkout -b  fac-admin-testing
+ 
+git checkout -b  bug/V2-Resolve-a-bug-for-application-refresh-and-navigation-operation-#23
+
+git checkout -b  task/Implement-a-carousel-for-the-trending-campaign-cards-#28
+git checkout -b  bug/Fix-Errors-on-assigning-roles-to-new-users-#22
+
+git checkout -b  task/Implement-new-header-for-category-table-#13
+git checkout -b  task/Implement-a-button-to-display-anonymous-donors-#91
+
+git checkout -b  task/add-BVN-input-field-for-new-users-#70
+git checkout -b  task/Implement-table-data-on-all-campaigns-page-#104
+
+git checkout -b  task/Implement-export-and-download-of-donor-list-#103
+
+git checkout -b  bug/Cursor-for-view-all-donation-activities-show-text-cursor-instead-of-click-cursor-#75
+
+git checkout -b  task/Design-custom-field-and-phone-number-on-donor-information-#136
+
+
+
+
+git checkout -b  angular-template-1
+git checkout staging
+git branch
+git add . 
+git commit
+git commit -m "Updated text change for preview kyc means of identification"
+
+[atomic commit for a particular task]
+[]
+git commit -am "Implemented christmas design on the application"
+
+(more than one line) - git commit -am "this is a long as
+- message to 
+- demonstrate"
+[]
+
+git pull origin facb/sprint/1 ec/sprint/7
+
+git pull https://github.com/Emekaugo/ANGULAR-2022-STARTER.git
+
+git push
+git push --set-upstream origin task/Implement-Change-Photo–message-prompt-displayed-while-saving-photo-has-capitalization-errors-#201
+
+git push --set-upstream https://github.com/Emekaugo/ANGULAR-2022-STARTER.git
+
+-git push https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-webclient tasks/Implement-dollar-currency-into-donate-page-#3
+
+INITIALIZED ANGULAR CRASH COURSE TESTING
+INSTALL ANGULAR, ANGULAR-MATERIAL, BOOTSTRAP
+CRASH COURSE ON ANGULAR TESTING IMPLEMENTATION
+
+git pull origin staging ec/sprint/7
+git push
+
+ng g component components/log-in --module app (appears in app.module.ts)
+npm start -- --configuration production
+npm run build -- --configuration production
+npm run build -- --configuration production --sourceMap=true
+ng g s core/HttpCache --skip-tests
+
+git rm -rf src/app/components/carousel
+
+Specs 736482
+DevOps1@3$$
+18
+
+
+ npmx create-react-app demo-app --template typescript
+ 
+ npm add typescript @types/react @types/react-dom @types/node
+ npm add @types/react-router-dom
+
+
+TERMINAL-FAC-SERVER-COMMANDS:
+
+ssh devops@192.168.19.30
+yes
+password: development123
+ls
+cd apps
+ls
+
+cd fundacause-business
+docker-compose ps
+docker-compose restart
+docker-compose ps
+docker-compose logs -f fac-core
+
+OR
+
+cd fundacause
+docker stack ls
+docker stack ps fac
+docker stack deploy -c docker compose.yml fac 
+docker stack ps fac
+docker service logs -f fac_fac-core
+
+
+
+putty, winscp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Hostname 	gitlab.com 
+IP Address 	41.184.153.226 
+Time 	2022-10-11 08:29:26 UTC 
+
+
+
+
+ng g m components/coporate-account-activation
+npm -g install firebase-tools
+firebase --version
+firebase login-----(working directory)
+firebase use --add
+firebase deploy --except functions
+firebase deploy --only functions(inside directory)
+
+-npm run build (IP address/dev server)
+
+-npm run build-prod (live server)
+
+-ng serve --port 4401   
+(You can change port to 4401 to whatever number you want)
+
+
+ngx-mat-drp
+
+
+ @media only screen and (max-width: 319px) {}
+    @media only screen and (min-width: 320px) and (max-width: 359px) {}
+    @media only screen and (min-width: 360px) and (max-width: 539px) {}
+    @media only screen and (min-width: 540px) and (max-width: 767px) { }
+    @media only screen and (min-width: 768px) and (max-width: 819px) {}
+    @media only screen and (min-width: 820px) and (max-width: 911px) {}
+    @media only screen and (min-width: 912px) and (max-width: 1023px) { }
+    @media only screen and (min-width: 1024px) and (max-width: 1440px) { }
+
+npm install @angular/platform-server @nguniversal/module-map-ngfactory-loader ts-loader @nguniversal/express-engine
+
+z-ANGULAR-SCSS - TEMPLATE
+
+npm install --legacy-peer-deps
+
+
+npm cache clean --force
+C:\Users{{your-username}}\AppData\Roaming\npm-cache
+npm cache verify
+npm i npm@latest -g
+
+
+postman controls:
+npm run start:test
+npm run start:dev
+
+
+
+ng g c pages\account-activation\forms\identity-evidence-premium-form     
+
+ng g pipe shared\pipes\form-errors\voucher\voucher-form-error
+
+ng g s core\services\auto-complete
+
+ng g d shared\directives\character
+
+
+ng g c pages\corporate-account-activation\proof-of-identity-form
+
+
+
+
+
+
+
+TypeScript, a typed superset of JavaScript that compiles to plain JavaScript and provides type capabilities to JavaScript code
+Angular, a JavaScript framework that allows you to create efficient and sophisticated single-page applications
+RxJS, a library for composing asynchronous and event-based programs by using observable sequences. Think of RxJS as Lodash but for events
+
+
+
+
