@@ -75,7 +75,7 @@ git push https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-webclient  t
 
 git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient tasks/fetch-data-for-individual-users-#4 staging
 
-git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient staging
+git pull https://github.com/Emekaugo/angular-template-2023 staging
 
 git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient.git task/implement-export-download-donor-list-#103
 
@@ -216,41 +216,6 @@ docker service logs -f fac_fac-core
 
 
 
-putty, winscp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	Hostname 	gitlab.com 
-IP Address 	41.184.153.226 
-Time 	2022-10-11 08:29:26 UTC 
-
-
-
-
 ng g m components/coporate-account-activation
 npm -g install firebase-tools
 firebase --version
@@ -295,29 +260,6 @@ npm i npm@latest -g
 postman controls:
 npm run start:test
 npm run start:dev
-
-
-
-ng g c pages\account-activation\forms\identity-evidence-premium-form     
-
-ng g pipe shared\pipes\form-errors\voucher\voucher-form-error
-
-ng g s core\services\auto-complete
-
-ng g d shared\directives\character
-
-
-ng g c pages\corporate-account-activation\proof-of-identity-form
-
-
-
-
-
-
-
-TypeScript, a typed superset of JavaScript that compiles to plain JavaScript and provides type capabilities to JavaScript code
-Angular, a JavaScript framework that allows you to create efficient and sophisticated single-page applications
-RxJS, a library for composing asynchronous and event-based programs by using observable sequences. Think of RxJS as Lodash but for events
 
 
 
