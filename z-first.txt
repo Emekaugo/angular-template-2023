@@ -216,41 +216,6 @@ docker service logs -f fac_fac-core
 
 
 
-putty, winscp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	Hostname 	gitlab.com 
-IP Address 	41.184.153.226 
-Time 	2022-10-11 08:29:26 UTC 
-
-
-
-
 ng g m components/coporate-account-activation
 npm -g install firebase-tools
 firebase --version
