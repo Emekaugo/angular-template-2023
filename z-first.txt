@@ -298,27 +298,4 @@ npm run start:dev
 
 
 
-ng g c pages\account-activation\forms\identity-evidence-premium-form     
-
-ng g pipe shared\pipes\form-errors\voucher\voucher-form-error
-
-ng g s core\services\auto-complete
-
-ng g d shared\directives\character
-
-
-ng g c pages\corporate-account-activation\proof-of-identity-form
-
-
-
-
-
-
-
-TypeScript, a typed superset of JavaScript that compiles to plain JavaScript and provides type capabilities to JavaScript code
-Angular, a JavaScript framework that allows you to create efficient and sophisticated single-page applications
-RxJS, a library for composing asynchronous and event-based programs by using observable sequences. Think of RxJS as Lodash but for events
-
-
-
 
