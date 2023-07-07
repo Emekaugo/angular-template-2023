@@ -179,11 +179,6 @@ ng g s core/HttpCache --skip-tests
 
 git rm -rf src/app/components/carousel
 
-Specs 736482
-DevOps1@3$$
-18
-
-
  npmx create-react-app demo-app --template typescript
  
  npm add typescript @types/react @types/react-dom @types/node
@@ -260,6 +255,12 @@ npm i npm@latest -g
 postman controls:
 npm run start:test
 npm run start:dev
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 
 
