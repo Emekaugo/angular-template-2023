@@ -75,7 +75,7 @@ git push https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-webclient  t
 
 git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient tasks/fetch-data-for-individual-users-#4 staging
 
-git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient staging
+git pull https://github.com/Emekaugo/angular-template-2023 staging
 
 git pull https://gitlab.com/specs-apps/rd-projects/fund-a-cause/fac-admin-webclient.git task/implement-export-download-donor-list-#103
 
